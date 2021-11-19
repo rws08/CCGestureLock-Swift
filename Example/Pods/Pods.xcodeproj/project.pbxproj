@@ -47,26 +47,26 @@
 		2F80B81B92C1C65446DAE75F13DD3AB9 /* Pods-CCGestureLock_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-CCGestureLock_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		37B5A586D2428FC24CE97B823E2893DA /* Pods-CCGestureLock_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-CCGestureLock_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
-		3CA7DC2E53E9B6BABC2D60F11EB2FE82 /* CCGestureLock.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = CCGestureLock.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		3CA7DC2E53E9B6BABC2D60F11EB2FE82 /* CCGestureLock.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = CCGestureLock.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		3CAD77CDE7ECFD0DED852263E6CAD2C2 /* Pods-CCGestureLock_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-CCGestureLock_Example-umbrella.h"; sourceTree = "<group>"; };
 		47A089757F6E4B9D45D166369939158D /* Pods-CCGestureLock_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-CCGestureLock_Example-dummy.m"; sourceTree = "<group>"; };
 		4D61BE9E470653B7EDCA1E6720E239F8 /* Pods-CCGestureLock_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-CCGestureLock_Tests-dummy.m"; sourceTree = "<group>"; };
 		4EF0B1460CEA59E9C585812F0AC14952 /* CCGestureLock-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "CCGestureLock-prefix.pch"; sourceTree = "<group>"; };
-		4FE072B87EE88007095FFA79A14469D3 /* Pods_CCGestureLock_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_CCGestureLock_Example.framework; path = "Pods-CCGestureLock_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		4FE072B87EE88007095FFA79A14469D3 /* Pods_CCGestureLock_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_CCGestureLock_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		54BB4CFBCB1FA6BCF9BB7E7718D6E654 /* Pods-CCGestureLock_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-CCGestureLock_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
-		5FBB84BC600BEF0770528221378E41B2 /* CCGestureLock.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = CCGestureLock.framework; path = CCGestureLock.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		5FBB84BC600BEF0770528221378E41B2 /* CCGestureLock.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = CCGestureLock.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		5FD6A7BDAEDBFCF5824B00118716D905 /* CCGestureLockSensor.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = CCGestureLockSensor.swift; path = CCGestureLock/Classes/CCGestureLockSensor.swift; sourceTree = "<group>"; };
 		6CABEB81B1EF8C5896D9A9EA10EEB093 /* Pods-CCGestureLock_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-CCGestureLock_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		72DC9D5C6330D05151583DC2EDF02FDB /* Pods-CCGestureLock_Example-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-CCGestureLock_Example-Info.plist"; sourceTree = "<group>"; };
 		7919E6B3B9BF34F7EB4ED49068C3F902 /* VersionBridge.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = VersionBridge.swift; path = CCGestureLock/Classes/VersionBridge.swift; sourceTree = "<group>"; };
-		79CA175ABDDFCD632B2D1E2FD803B464 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		79CA175ABDDFCD632B2D1E2FD803B464 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		7CC641661254CCF71EAAC96F3C0F38FD /* Pods-CCGestureLock_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-CCGestureLock_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
 		8166FBB9CC6B62C3E86E9CA21139EA9A /* CCGestureLock-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "CCGestureLock-dummy.m"; sourceTree = "<group>"; };
-		836AA525E218666BB5A749304C663140 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		836AA525E218666BB5A749304C663140 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		8B22953DDCCEEFA7D2F2FD70130AE9DE /* Pods-CCGestureLock_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-CCGestureLock_Example.modulemap"; sourceTree = "<group>"; };
 		907A68E0F320554FA56A2D605FB313D3 /* Pods-CCGestureLock_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-CCGestureLock_Example-frameworks.sh"; sourceTree = "<group>"; };
-		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		A3E7C848869B0AD6551A3C423B995DF8 /* Pods_CCGestureLock_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_CCGestureLock_Tests.framework; path = "Pods-CCGestureLock_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		A3E7C848869B0AD6551A3C423B995DF8 /* Pods_CCGestureLock_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_CCGestureLock_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		A61DE1F91BF4233A331E75F4CB735096 /* CCGestureLockAppearance.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = CCGestureLockAppearance.swift; path = CCGestureLock/Classes/CCGestureLockAppearance.swift; sourceTree = "<group>"; };
 		A7D868030DB7BBBC0F6F6BC1C81426B2 /* Pods-CCGestureLock_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-CCGestureLock_Tests-umbrella.h"; sourceTree = "<group>"; };
 		B054881B9660E268064BEC7221E44E0A /* Pods-CCGestureLock_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-CCGestureLock_Tests.release.xcconfig"; sourceTree = "<group>"; };
@@ -326,7 +326,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 1100;
-				LastUpgradeCheck = 1100;
+				LastUpgradeCheck = 1310;
 			};
 			buildConfigurationList = 4821239608C13582E20E6DA73FD5F1F9 /* Build configuration list for PBXProject "Pods" */;
 			compatibilityVersion = "Xcode 3.2";
@@ -436,7 +436,7 @@
 				GCC_PREFIX_HEADER = "Target Support Files/CCGestureLock/CCGestureLock-prefix.pch";
 				INFOPLIST_FILE = "Target Support Files/CCGestureLock/CCGestureLock-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MODULEMAP_FILE = "Target Support Files/CCGestureLock/CCGestureLock.modulemap";
 				PRODUCT_MODULE_NAME = CCGestureLock;
@@ -477,6 +477,7 @@
 				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
 				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
 				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
 				CLANG_WARN_STRICT_PROTOTYPES = YES;
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
@@ -499,13 +500,12 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
-				SWIFT_COMPILATION_MODE = wholemodule;
-				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
 				SWIFT_VERSION = 5.0;
 				SYMROOT = "${SRCROOT}/../build";
 			};
@@ -527,7 +527,7 @@
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				INFOPLIST_FILE = "Target Support Files/Pods-CCGestureLock_Tests/Pods-CCGestureLock_Tests-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "Target Support Files/Pods-CCGestureLock_Tests/Pods-CCGestureLock_Tests.modulemap";
@@ -561,7 +561,7 @@
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				INFOPLIST_FILE = "Target Support Files/Pods-CCGestureLock_Tests/Pods-CCGestureLock_Tests-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "Target Support Files/Pods-CCGestureLock_Tests/Pods-CCGestureLock_Tests.modulemap";
@@ -594,7 +594,7 @@
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				INFOPLIST_FILE = "Target Support Files/Pods-CCGestureLock_Example/Pods-CCGestureLock_Example-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "Target Support Files/Pods-CCGestureLock_Example/Pods-CCGestureLock_Example.modulemap";
@@ -637,6 +637,7 @@
 				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
 				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
 				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
 				CLANG_WARN_STRICT_PROTOTYPES = YES;
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
@@ -662,7 +663,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
@@ -691,7 +692,7 @@
 				GCC_PREFIX_HEADER = "Target Support Files/CCGestureLock/CCGestureLock-prefix.pch";
 				INFOPLIST_FILE = "Target Support Files/CCGestureLock/CCGestureLock-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MODULEMAP_FILE = "Target Support Files/CCGestureLock/CCGestureLock.modulemap";
 				PRODUCT_MODULE_NAME = CCGestureLock;
@@ -723,7 +724,7 @@
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				INFOPLIST_FILE = "Target Support Files/Pods-CCGestureLock_Example/Pods-CCGestureLock_Example-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "Target Support Files/Pods-CCGestureLock_Example/Pods-CCGestureLock_Example.modulemap";
